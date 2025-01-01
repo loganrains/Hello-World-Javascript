@@ -1,0 +1,12 @@
+{
+  "name": "hello_world_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Hello_World.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
